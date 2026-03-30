@@ -5,8 +5,8 @@ const Hero = () => {
         <section id="hero" className="hero">
             <div className="swiper hero-swiper">
                 <div className="swiper-wrapper">
-                    
-                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-pest-control-hero.jpg')"}}>
+
+                    <div className="swiper-slide hero-slide" style={{ backgroundImage: "url('/assets/images/indian-pest-control-hero.jpg')" }}>
                         <div className="container">
                             <div className="slide-content" data-aos="fade-up" data-aos-delay="200">
                                 <span className="slide-label">Premium Services</span>
@@ -24,7 +24,7 @@ const Hero = () => {
                         </div>
                     </div>
 
-                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-termite-control.jpg')"}}>
+                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-termite-control.png')"}}>
                         <div className="container">
                             <div className="slide-content">
                                 <span className="slide-label">SpecializedBox</span>
@@ -37,7 +37,7 @@ const Hero = () => {
                         </div>
                     </div>
 
-                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-cockroach-control.jpg')"}}>
+                    <div className="swiper-slide hero-slide" style={{ backgroundImage: "url('/assets/images/indian-cockroach-control.jpg')" }}>
                         <div className="container">
                             <div className="slide-content">
                                 <span className="slide-label">Hygiene Priority</span>
@@ -50,7 +50,7 @@ const Hero = () => {
                         </div>
                     </div>
 
-                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-mosquito-control.jpg')"}}>
+                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-mosquito-control.png')"}}>
                         <div className="container">
                             <div className="slide-content">
                                 <span className="slide-label">Protect Your Family</span>
@@ -63,7 +63,7 @@ const Hero = () => {
                         </div>
                     </div>
 
-                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-commercial-pest-control.jpg')"}}>
+                    <div className="swiper-slide hero-slide" style={{backgroundImage: "url('/assets/images/indian-commercial-pest-control.png')"}}>
                         <div className="container">
                             <div className="slide-content">
                                 <span className="slide-label">B2B Services</span>
